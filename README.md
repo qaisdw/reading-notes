@@ -7,4 +7,5 @@
 1- [Data Structures and Algorithms](./DSA.md)
 
 ## *Class 01*
-2- [Pain and Suffering](./Pain_and_Suffering.md)
+1- [Pain and Suffering](./Pain_and_Suffering.md)Guide_to Big_O.md
+2- [Beginners Guide to Big O](./Guide_to Big_O.md)
