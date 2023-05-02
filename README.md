@@ -13,3 +13,7 @@
 1. [Pain and Suffering](./Pain_and_Suffering.md)
 2. [Beginners Guide to Big O](./Guide_to_Big_O.md)
 3. [the difference between mutable and immutable data types in Python](./mutable&immutable.md)
+
+## First-Chal
+1. [firstChal](https://github.com/qaisdw/data-structures-and-algorithms)
+
