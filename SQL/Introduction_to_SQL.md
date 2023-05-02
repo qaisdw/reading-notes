@@ -20,7 +20,7 @@ and SQL (Structured Query Language) is a programming language used to manage and
 ![SQL Lesson 1](https://github.com/qaisdw/reading-notes/blob/main/SQL/pic/SQL%20Lesson%2016.png)
 ![SQL Lesson 1](https://github.com/qaisdw/reading-notes/blob/main/SQL/pic/SQL%20Lesson%2017.png)
 ![SQL Lesson 1](https://github.com/qaisdw/reading-notes/blob/main/SQL/pic/SQL%20Lesson%2018.png)
-![SQL Lesson 1](https://github.com/qaisdw/reading-notes/blob/main/SQL/pic/SQL%20Lesson%2019.png)
+![SQL Lesson 1](https://github.com/qaisdw/reading-notes/blob/main/SQL/pic/SQL%20Lesson%20final.png)
 
 
 
