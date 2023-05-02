@@ -1,1 +1,1 @@
-## the second [survey](./emotional-intelligence-assessment)
+## the second [survey](./emotional-intelligence-assessment.docx)
