@@ -1,7 +1,8 @@
 # Reading Notes
 **This repo is designed to keep track of my observations and questions from the reading assignments throughout the *Python* course**
 
-## *Code 401* - Advanced Software Development
+# *Code 401* - Advanced Software Development
+## *Prep Work*
 1. [Data Structures and Algorithms](./DSA.md)
 2. [SQL Practice](./SQL_Practice.md)
 3. [The Command Line](./The_Command_Line.md)
@@ -14,4 +15,15 @@
 
 ## First-Chal
 1. [firstChal](https://github.com/qaisdw/data-structures-and-algorithms)
+
+## *Class 02*
+
+## Second-Chal
+1. [firstChal](https://github.com/qaisdw/data-structures-and-algorithms)
+
+
+## *Class 03*
+
+
+
 
