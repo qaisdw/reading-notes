@@ -19,7 +19,7 @@
 ## *Class 02*
 
 ## Second-Chal
-1. [firstChal](https://github.com/qaisdw/data-structures-and-algorithms)
+1. [array-insert-shift](https://github.com/qaisdw/data-structures-and-algorithms)
 
 
 ## *Class 03*
