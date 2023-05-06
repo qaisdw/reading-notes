@@ -23,6 +23,7 @@
 
 
 ## *Class 03*
+1. [FileIO & Exceptions](./FileIO_&_Exceptions.md)
 
 
 
