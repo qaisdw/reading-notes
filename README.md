@@ -14,7 +14,7 @@
 3. [the difference between mutable and immutable data types in Python](./mutable&immutable.md)
 
 ## First-Chal
-1. [firstChal](https://github.com/qaisdw/data-structures-and-algorithms)
+1. [array-reverse](https://github.com/qaisdw/data-structures-and-algorithms)
 
 ## *Class 02*
 
