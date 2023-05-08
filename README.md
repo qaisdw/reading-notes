@@ -17,6 +17,7 @@
 1. [array-reverse](https://github.com/qaisdw/data-structures-and-algorithms)
 
 ## *Class 02*
+1. [math-series](https://github.com/qaisdw/math-series)
 
 ## Second-Chal
 1. [array-insert-shift](https://github.com/qaisdw/data-structures-and-algorithms)
@@ -24,6 +25,8 @@
 
 ## *Class 03*
 1. [FileIO & Exceptions](./FileIO_&_Exceptions.md)
+2. [madlib-cli](https://github.com/qaisdw/madlib-cli)
+
 
 
 
