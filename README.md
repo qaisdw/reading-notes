@@ -28,9 +28,8 @@
 2. [madlib-cli](https://github.com/qaisdw/madlib-cli)
 
 ## *Class 04*
-1. [Classes and Objects](./Classes_and_Objects.md)
-2. [Thinking Recursively](./Thinking_Recursively.md)
-3. [Pytest Fixtures and Coverage](./Pytest_Fixtures_and_Coverage.md)
+1. [Readings Topic](./Readings_Topic.md)
+
 
 
 
