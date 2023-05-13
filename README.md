@@ -12,10 +12,11 @@
 
 | #  | Challenge                                                |
 |-|-|
-| 1  | [Reverse an array.](https://github.com/qaisdw/data-structures-and-algorithms/tree/main/array-reverse) |
-| 2  | [Insert and shift an array in middle at index.](https://github.com/qaisdw/data-structures-and-algorithms/tree/main/array-insert-shift) |
-| 3  | [Binary Search](https://github.com/qaisdw/data-structures-and-algorithms/tree/main/array-binary-search) |
-| 4  | [linked-list](https://github.com/qaisdw/data-structures-and-algorithms/tree/main/linked-list) |
+| Class 01  | [Reverse an array.](https://github.com/qaisdw/data-structures-and-algorithms/tree/main/array-reverse) |
+| Class 02  | [Insert and shift an array in middle at index.](https://github.com/qaisdw/data-structures-and-algorithms/tree/main/array-insert-shift) |
+| Class 03  | [Binary Search](https://github.com/qaisdw/data-structures-and-algorithms/tree/main/array-binary-search) |
+| Class 04  | Mock Interviews 01 |
+| Class 05  | [linked-list](https://github.com/qaisdw/data-structures-and-algorithms/tree/main/linked-list) |
 
 
 ## *Table of Lab Readings*
