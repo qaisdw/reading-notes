@@ -21,7 +21,7 @@
 ## *Table of Lab Readings*
 | #  | Readings                                                |
 |-|-|
-| Class 01  | 1. [Pain and Suffering](./Pain_and_Suffering.md)2. [Beginners Guide to Big O](./Guide_to_Big_O.md)3. [the difference between mutable and immutable data types in Python](./mutable&immutable.md) |
+| Class 01  | 1. [Pain and Suffering](./Pain_and_Suffering.md) 2. [Beginners Guide to Big O](./Guide_to_Big_O.md) 3. [the difference between mutable and immutable data types in Python](./mutable&immutable.md) |
 | Class 02  | |
 | Class 03  |  [FileIO & Exceptions](./FileIO_&_Exceptions.md) |
 | Class 04  |  [Classes, Objects and Pytest Fixtures](./Readings_Topic.md) |
