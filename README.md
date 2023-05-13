@@ -27,7 +27,7 @@
 | Class 03  |  [FileIO & Exceptions](./FileIO_&_Exceptions.md) |
 | Class 04  |  [Classes, Objects and Pytest Fixtures](./Readings_Topic.md) |
 | Class 05  |  [Implementation: Linked Lists](./Linked_Lists.md) |
-| Class 06  |  [Ten Thousand Game 1](./Create Ten_Thousand_Game_1.md) |
+| Class 06  |  [Ten Thousand Game 1](./Ten_Thousand_Game_1.md) |
 
 
 
