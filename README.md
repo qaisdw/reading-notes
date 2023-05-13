@@ -8,27 +8,40 @@
 3. [The Command Line](./The_Command_Line.md)
 
 
-## *Class 01*
-1. [Pain and Suffering](./Pain_and_Suffering.md)
-2. [Beginners Guide to Big O](./Guide_to_Big_O.md)
-3. [the difference between mutable and immutable data types in Python](./mutable&immutable.md)
+## *Table of Code Challenge*
 
-## First-Chal
-1. [array-reverse](https://github.com/qaisdw/data-structures-and-algorithms)
-
-## *Class 02*
-1. [math-series](https://github.com/qaisdw/math-series)
-
-## Second-Chal
-1. [array-insert-shift](https://github.com/qaisdw/data-structures-and-algorithms)
+| #  | Challenge                                                |
+|-|-|
+| 1  | [Reverse an array.](https://github.com/qaisdw/data-structures-and-algorithms/tree/main/array-reverse) |
+| 2  | [Insert and shift an array in middle at index.](https://github.com/qaisdw/data-structures-and-algorithms/tree/main/array-insert-shift) |
+| 3  | [Binary Search](https://github.com/qaisdw/data-structures-and-algorithms/tree/main/array-binary-search) |
+| 4  | [linked-list](https://github.com/qaisdw/data-structures-and-algorithms/tree/main/linked-list) |
 
 
-## *Class 03*
-1. [FileIO & Exceptions](./FileIO_&_Exceptions.md)
-2. [madlib-cli](https://github.com/qaisdw/madlib-cli)
+## *Table of Lab Readings*
+| #  | Readings                                                |
+|-|-|
+| Class 01  | 1. [Pain and Suffering](./Pain_and_Suffering.md)2. [Beginners Guide to Big O](./Guide_to_Big_O.md)3. [the difference between mutable and immutable data types in Python](./mutable&immutable.md) |
+| Class 02  | |
+| Class 03  | 1. [FileIO & Exceptions](./FileIO_&_Exceptions.md) |
+| Class 04  | 1. [Classes, Objects and Pytest Fixtures](./Readings_Topic.md) |
+| Class 05  | 1. |
+| Class 06  | 1. |
 
-## *Class 04*
-1. [Readings Topic](./Readings_Topic.md)
+
+
+## *Table of Lab Assignments*
+
+| #  | Assignments                                                |
+|-|-|
+| Class 01  | 1. [array-reverse](https://github.com/qaisdw/snakes_cafe) |
+| Class 02  | 1. [math-series](https://github.com/qaisdw/math-series) |
+| Class 03  | 1. [madlib-cli](https://github.com/qaisdw/madlib-cli) |
+| Class 04  | 1. [Garage Band with OOP](https://github.com/qaisdw/pythonic-garage-band) |
+| Class 05  | 1. There is no Lab |
+| Class 06  | 1.  |
+
+
 
 
 
