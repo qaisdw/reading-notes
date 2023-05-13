@@ -25,7 +25,7 @@
 | Class 02  | |
 | Class 03  |  [FileIO & Exceptions](./FileIO_&_Exceptions.md) |
 | Class 04  |  [Classes, Objects and Pytest Fixtures](./Readings_Topic.md) |
-| Class 05  |  |
+| Class 05  |  [Implementation: Linked Lists](./Linked_Lists.md)|
 | Class 06  |  |
 
 
