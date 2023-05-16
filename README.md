@@ -17,6 +17,8 @@
 | Class 03  | [Binary Search](https://github.com/qaisdw/data-structures-and-algorithms/tree/main/array-binary-search) |
 | Class 04  | Mock Interviews 01 |
 | Class 05  | [linked-list](https://github.com/qaisdw/data-structures-and-algorithms/tree/main/linked-list) |
+| Class 06  | [linked-list-insertions](https://github.com/qaisdw/data-structures-and-algorithms/tree/main/linked-list) |
+
 
 
 ## *Table of Lab Readings*
