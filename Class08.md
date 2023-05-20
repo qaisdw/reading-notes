@@ -1,4 +1,6 @@
-1. Python List Comprehension:
+#  Python List Comprehension
+
+**Python List Comprehension:**
 List comprehension is a concise way to create lists in Python.
 It provides a compact syntax for generating new lists based
 on existing ones or other iterables.
@@ -35,28 +37,32 @@ Output:
 [1, 4, 9, 16, 25]
 ```
 
-2. Decorators in Python:
+# Decorators in Python
+
+**Decorators in Python:**
 In Python, a decorator is a design pattern that allows you to modify the behavior of a function
 or class without directly modifying its source code. Decorators are implemented as functions that wrap other functions or classes,
 adding functionality or modifying their behavior. They provide a way to extend or enhance the functionality of existing functions 
 or classes by applying additional code logic before or after the target function or class.
 
-3. Concept and Use Cases of Decorators:
+## Concept and Use Cases of Decorators
+
+**Concept and Use Cases of Decorators:**
 Decorators are used to add functionality to functions or classes dynamically. 
 Some common use cases for decorators include:
 
-- Logging: Decorators can be used to log the execution of functions,
+- **Logging:** Decorators can be used to log the execution of functions,
 allowing you to monitor their behavior and track important information.
 - Authentication and Authorization: Decorators can check whether a user is authorized to access a particular function or resource 
 by adding authentication and authorization checks.
-- Input Validation: Decorators can validate the input arguments passed to a function before executing it, 
+- **Input Validation:** Decorators can validate the input arguments passed to a function before executing it, 
 ensuring the data meets certain criteria.
-- Caching: Decorators can cache the results of function calls to improve performance by storing previously computed values 
+- **Caching:** Decorators can cache the results of function calls to improve performance by storing previously computed values 
 and returning them instead of recomputing.
-- Timing and Profiling: Decorators can measure the execution time of functions or provide profiling information 
+- **Timing and Profiling:** Decorators can measure the execution time of functions or provide profiling information 
 to analyze and optimize code performance.
 
-Example of a simple decorator function:
+#### Example of a simple decorator function:
 
 ```python
 def uppercase_decorator(func):
