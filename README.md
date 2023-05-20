@@ -18,6 +18,10 @@
 | Class 04  | Mock Interviews 01 |
 | Class 05  | [linked-list](https://github.com/qaisdw/data-structures-and-algorithms/tree/main/linked-list) |
 | Class 06  | [linked-list-insertions](https://github.com/qaisdw/data-structures-and-algorithms/tree/main/linked-list) |
+| Class 07  | [linked-list-kth](https://github.com/qaisdw/data-structures-and-algorithms/tree/main/linked-list) |
+| Class 08  | [stack-and-queue](https://github.com/qaisdw/data-structures-and-algorithms/tree/main/stack-and-queue) |
+
+
 
 
 
@@ -30,7 +34,11 @@
 | Class 04  |  [Classes, Objects and Pytest Fixtures](./Readings_Topic.md) |
 | Class 05  |  [Implementation: Linked Lists](./Linked_Lists.md) |
 | Class 06  |  [Ten Thousand Game 1](./Ten_Thousand_Game_1.md) |
-| Class 06  |  [Scope, Big O notation and Rolling Dice](./Scope_Big_O_notation_Rolling_Dice.md) |
+| Class 07  |  [Scope, Big O notation and Rolling Dice](./Scope_Big_O_notation_Rolling_Dice.md) |
+| Class 08  |  [Stacks and queues](./Stacks_and_queues.md) |
+| Class 09  |  [List Comprehensions and Decorators](./Class08.md) |
+
+
 
 
 
@@ -43,7 +51,12 @@
 | Class 03  |  [madlib-cli](https://github.com/qaisdw/madlib-cli) |
 | Class 04  |  [Garage Band with OOP](https://github.com/qaisdw/pythonic-garage-band) |
 | Class 05  |  There is no Lab |
-| Class 06  |   |
+| Class 06  |  [Ten Thousand 01](https://github.com/qaisdw/ten_thousand) |
+| Class 07  |  [Ten Thousand 02](https://github.com/qaisdw/ten_thousand) |
+| Class 08  |  There is no Lab |
+
+
+
 
 
 
