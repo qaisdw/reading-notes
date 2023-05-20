@@ -53,7 +53,7 @@ Some common use cases for decorators include:
 
 - **Logging:** Decorators can be used to log the execution of functions,
 allowing you to monitor their behavior and track important information.
-- Authentication and Authorization: Decorators can check whether a user is authorized to access a particular function or resource 
+- **Authentication and Authorization:** Decorators can check whether a user is authorized to access a particular function or resource 
 by adding authentication and authorization checks.
 - **Input Validation:** Decorators can validate the input arguments passed to a function before executing it, 
 ensuring the data meets certain criteria.
