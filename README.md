@@ -29,14 +29,15 @@
 | #  | Readings                                                |
 |-|-|
 | Class 01  | 1. [Pain and Suffering](./Pain_and_Suffering.md) 2. [Beginners Guide to Big O](./Guide_to_Big_O.md) 3. [the difference between mutable and immutable data types in Python](./mutable&immutable.md) |
-| Class 02  | |
-| Class 03  |  [FileIO & Exceptions](./FileIO_&_Exceptions.md) |
-| Class 04  |  [Classes, Objects and Pytest Fixtures](./Readings_Topic.md) |
-| Class 05  |  [Implementation: Linked Lists](./Linked_Lists.md) |
-| Class 06  |  [Ten Thousand Game 1](./Ten_Thousand_Game_1.md) |
-| Class 07  |  [Scope, Big O notation and Rolling Dice](./Scope_Big_O_notation_Rolling_Dice.md) |
-| Class 08  |  [Stacks and queues](./Stacks_and_queues.md) |
-| Class 09  |  [List Comprehensions and Decorators](./Class08.md) |
+| Class 02  |  [FileIO & Exceptions](./FileIO_&_Exceptions.md) |
+| Class 03  |  [Classes, Objects and Pytest Fixtures](./Readings_Topic.md) |
+| Class 04  |  [Implementation: Linked Lists](./Linked_Lists.md) |
+| Class 05  |  [Ten Thousand Game 1](./Ten_Thousand_Game_1.md) |
+| Class 06  |  [Scope, Big O notation and Rolling Dice](./Scope_Big_O_notation_Rolling_Dice.md) |
+| Class 07  |  [Stacks and queues](./Stacks_and_queues.md) |
+| Class 08  |  [List Comprehensions and Decorators](./Class08.md) |
+| Class 09  |  [Dunder Methods and Statistics - Probability](./Class09.md) |
+
 
 
 
