@@ -37,6 +37,8 @@
 | Class 07  |  [Stacks and queues](./Stacks_and_queues.md) |
 | Class 08  |  [List Comprehensions and Decorators](./Class08.md) |
 | Class 09  |  [Dunder Methods and Statistics - Probability](./Class09.md) |
+| Class 10  |  [Jupyter_Notebook](./Jupyter_Notebook.md) |
+
 
 
 
