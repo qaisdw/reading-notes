@@ -39,6 +39,8 @@
 | Class 09  |  [Dunder Methods and Statistics - Probability](./Class09.md) |
 | Class 10  |  [Jupyter_Notebook](./Jupyter_Notebook.md) |
 | Class 12  |  [Jupyter_Notebook](./Class_12.md) |
+| Class 13  |  [Jupyter_Notebook](./Class-13.md) |
+
 
 
 
