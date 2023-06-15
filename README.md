@@ -38,6 +38,7 @@
 | Class 08  |  [List Comprehensions and Decorators](./Class08.md) |
 | Class 09  |  [Dunder Methods and Statistics - Probability](./Class09.md) |
 | Class 10  |  [Jupyter_Notebook](./Jupyter_Notebook.md) |
+| Class 12  |  [Jupyter_Notebook](./Class_12.md) |
 
 
 
