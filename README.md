@@ -41,6 +41,7 @@
 | Class 12  |  [Jupyter_Notebook](./Class_12.md) |
 | Class 13  |  [Jupyter_Notebook](./Class-13.md) |
 | Class 14  |  [Jupyter_Notebook](./Class-14.md) |
+| Tree  |  [Jupyter_Notebook](./tree.md) |
 
 
 
